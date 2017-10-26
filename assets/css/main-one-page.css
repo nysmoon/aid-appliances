@@ -6407,3 +6407,7 @@ ul.nav-categories > li > a:hover {
 
 img.brands{
     margin: 5px;}
+
+.yelp-review {
+  max-width: 100% !important;
+}
